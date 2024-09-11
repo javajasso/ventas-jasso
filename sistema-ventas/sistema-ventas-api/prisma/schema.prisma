@@ -11,7 +11,7 @@ generator client {
 datasource db {
   provider = "mysql"
   //url      = "mysql://admin:admin@localhost:3306/sistema_ventas_jasso" //agregar la direccion de AWS de la BD
-  url = "mysql://admin:admin123@sistema-ventas.cjsqmwak8v86.us-east-2.rds.amazonaws.com:3306/sistema_ventas_Ana"
+  url = "mysql://admin:jassovelazquez@sistema-ventas.cnaq24kk8n83.us-east-2.rds.amazonaws.com:3306/sistema_ventas_Ana"
 }
 
 //ejecutar npx prisma generate
