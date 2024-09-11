@@ -5,7 +5,7 @@ Tener un sistema en el cual se pueda realizar una venta de manera automatizada, 
 Usamos [SemVer](http://semver.org/) para el versonado. Para todas las versiones disponibles.
 
 ## Autores 
-*Ana Isabel Jasso Velázquez* - Developer - [kueb0](https://github.com/javajasso)
+*Ana Isabel Jasso Velázquez* - Developer - (https://github.com/javajasso)
 
 <p aling="center">
   <a></a>
